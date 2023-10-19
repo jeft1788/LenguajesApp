@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mi Reckycler2</string>
+    <string name="image">imagen</string>
+
+    <string name="title1">KOTLIN</string>
+    <string name="title2">JAVA</string>
+    <string name="title3">C++</string>
+    <string name="title4">Python</string>
+    <string name="title5">Node Js</string>
+</resources>
